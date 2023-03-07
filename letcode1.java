@@ -26,7 +26,7 @@ public class letcode1 {
 		    String title = driver.getTitle();
 		    System.out.println("title");
 		    driver.quit();
-driver.close();
+driver.close();.
 }}
 		}
 	
